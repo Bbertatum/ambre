@@ -16,7 +16,7 @@ draft = false
 
 J'utilise une approche complémentaire, conciliant à la fois les apports de la psychothérapie en [TCC]({{< relref "#tcc" >}}) et [l'hypnose ericksionienne]({{< relref "#hypnose" >}})
 
-Je reçois essentiellement des adultes mais également des enfants et adolescents éprouvant le besoin d'être accompagnés et soutenus dans leurs difficultés personnelles, professionnelles, ou scolaire.
+Je reçois essentiellement des adultes mais également des enfants et adolescents éprouvant le besoin d'être accompagnés et soutenus dans leurs difficultés personnelles, professionnelles, ou scolaires.
 
 Mon rôle est de vous apporter conseils, écoute, soutient et aide en respectant certaines valeurs fondamentales, comme le cadre législatif, les règles déontologiques et éthiques.
 
