@@ -29,7 +29,7 @@ Titulaire d'un diplôme d'ÉTat en tant que psychologue clinicienne et psychoth�
 Mon expérience est nourrie de très riches univers : 
 
 - L'accompagnement d'enfants et adolescents en PMI (protection maternelle et infantile) et en ASE (Aide sociale à l'enfance) et dans le soutien à la parentalité.
-- Psychothérapie au sein du SIMPPS (Service Interuniversitaire de Médecine Préventive et de Promotion de la Santé) auprès d'étudiants dans l'accompagnement thérapeutique en TCC.
+- Psychothérapie au sein du SIMPPS (Service Interuniversitaire de Médecine Préventive et de Promotion de la Santé) auprès d'étudiants dans l'accompagnement thérapeutique en [TCC]({{< relref "#tcc" >}}).
 - Aide dans des situations de précarité en tant qu'assistance sociale pour les prestataires du RSA.
 - Travail en cadre associatif avec le secours catholique, pour les personnes en situation de précarité et isolement social.
 - Soutien psychologique pour les seniors, auprès de l'association des petits frères des pauvres.
