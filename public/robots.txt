@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ambre.2backup.fr/sitemap.xml

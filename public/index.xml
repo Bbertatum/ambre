@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ambre Perrette</title>
+    <link>http://ambreperrette.fr/index.xml</link>
+    <description>Recent content on Ambre Perrette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Bbert</copyright>
+    <atom:link href="http://ambreperrette.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Psychologue</title>
+      <link>http://ambreperrette.fr/psychologue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ambreperrette.fr/psychologue/</guid>
+      <description>
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;http://ambreperrette.fr/images/pic01.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;ambre-perrette&#34;&gt;Ambre Perrette&lt;/h2&gt;
+
+&lt;h5 id=&#34;psychologue-clinicienne&#34;&gt;Psychologue Clinicienne&lt;/h5&gt;
+
+&lt;h5 id=&#34;psychothérapeute&#34;&gt;Psychothérapeute&lt;/h5&gt;
+
+&lt;h5 id=&#34;diplomée-d-etat&#34;&gt;Diplomée d&amp;rsquo;Etat&lt;/h5&gt;
+
+&lt;h5 id=&#34;dess-psychologie-clinique-de-la-santé&#34;&gt;DESS Psychologie Clinique de la santé&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hypnose</title>
+      <link>http://ambreperrette.fr/hypnose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ambreperrette.fr/hypnose/</guid>
+      <description>&lt;p&gt;
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;http://ambreperrette.fr/images/pic02.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+Texte&lt;/p&gt;
+
+&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Therapie</title>
+      <link>http://ambreperrette.fr/psy_tcc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ambreperrette.fr/psy_tcc/</guid>
+      <description>&lt;p&gt;
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;http://ambreperrette.fr/images/pic02.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+Therapie Cognitivo-Comportementale&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consulter</title>
+      <link>http://ambreperrette.fr/consulter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ambreperrette.fr/consulter/</guid>
+      <description>&lt;p&gt;
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;http://ambreperrette.fr/images/pic02.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+Texte&lt;/p&gt;
+
+&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ambreperrette.fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ambreperrette.fr/contact/</guid>
+      <description>&lt;form method=&#34;post&#34; action=&#34;#&#34;&gt;
+    &lt;div class=&#34;field half first&#34;&gt;
+        &lt;label for=&#34;name&#34;&gt;Nom&lt;/label&gt;
+        &lt;input type=&#34;text&#34; name=&#34;name&#34; id=&#34;name&#34; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;field half&#34;&gt;
+        &lt;label for=&#34;email&#34;&gt;E-mail&lt;/label&gt;
+        &lt;input type=&#34;text&#34; name=&#34;email&#34; id=&#34;email&#34; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;field&#34;&gt;
+        &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;
+        &lt;textarea name=&#34;message&#34; id=&#34;message&#34; rows=&#34;4&#34;&gt;&lt;/textarea&gt;
+    &lt;/div&gt;
+    &lt;ul class=&#34;actions&#34;&gt;
+        &lt;li&gt;&lt;input type=&#34;submit&#34; value=&#34;Envoyer&#34; class=&#34;special&#34; /&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;input type=&#34;reset&#34; value=&#34;Reset&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plan</title>
+      <link>http://ambreperrette.fr/plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ambreperrette.fr/plan/</guid>
+      <description>&lt;h3 class=&#34;major&#34;&gt;Me Trouver&lt;/h3&gt;
+
+&lt;p&gt;/*
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d1214.805354023224%212d1.4437765029483065%213d43.60007952903883%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x0%253A0x7e3cf5bf181baf38%212sDocteur%2bSanchez%2bQuero%2bPatrice%215e0%213m2%211sfr%212sfr%214v1542667487464&#34; width=&#34;100%&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

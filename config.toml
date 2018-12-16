@@ -1,0 +1,46 @@
+baseurl = "http://ambre.2backup.fr"
+title = "Ambre Perrette"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Psychologue clinicienne <br /> <!--]-->
+		 <!--[--> Psychoth&eacute;rapeute en thérapie comportementale et cognitive  <br /> <!--]-->
+                <!--[--> Hypnose  Ericksonienne <!--]-->'
+  logoimage = "/images/psylogo_white.svg"
+  copyright = "Bbert"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/ambre.perrette"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+#[[params.social]]
+#  medium = "github"
+#  icon = "github"
+#  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+#[languages.de]
+#languageName = "English"
+#weight = 2
+#title = "Dimension"
+#description = '<!--[-->Psychologue Clinicienne Ambre Perrette <!--]--><br />
+#                <!--[-->  <!--]-->'
